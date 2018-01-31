@@ -28,7 +28,6 @@
                         
                     <p style="float: right;" id="role_member"><strong><?php echo $role ?></strong></p>
                     <p style="float: left;" id="phone_member"><a href="tel:<?php echo $phone ?>"><?php echo $phone ?></a></p>
-                    <!-- <div class="clearfix visible-xs-block"></div> -->
                 </div>
         </div>
     <?php endwhile; ?>
